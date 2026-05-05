@@ -60,8 +60,9 @@ Instead of relying only on centralized reviewers, a GenLayer contract can make t
 ## Demo Links
 
 - GitHub: `https://github.com/minhhnob/genlayer-contribution-judge`
-- Demo: `<PASTE_VERCEL_URL>`
+- Demo: `https://genlayer-contribution-judge-u6imfm4ny-minhhnobs-projects.vercel.app`
 - Contract: `0x410E01fb3ECba47b0098eC57F5482536223c2876`
+- Published article: `https://lovingyoubabyah.substack.com/p/building-proof-of-contribution-judge`
 
 ## What I Learned
 

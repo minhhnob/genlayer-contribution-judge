@@ -16,9 +16,9 @@ Proof-of-Contribution Judge is a GenLayer Intelligent Contract demo that reviews
 **Links:**
 
 - Contract address: `0x410E01fb3ECba47b0098eC57F5482536223c2876`
-- Demo: `<PASTE_VERCEL_URL>`
+- Demo: https://genlayer-contribution-judge-u6imfm4ny-minhhnobs-projects.vercel.app
 - GitHub: `https://github.com/minhhnob/genlayer-contribution-judge`
-- Blog: `<PASTE_BLOG_URL>`
+- Blog: https://lovingyoubabyah.substack.com/p/building-proof-of-contribution-judge
 
 **Milestone completed:**
 
