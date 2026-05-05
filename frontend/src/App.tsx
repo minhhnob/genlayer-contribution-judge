@@ -11,7 +11,7 @@ Reject if spammy, unrelated, or missing evidence.`;
 const defaultForm: ReviewForm = {
   contributor: 'Decem',
   title: 'Guide: Building a Proof-of-Contribution Judge on GenLayer',
-  evidenceUrl: 'https://github.com/yourname/genlayer-contribution-judge',
+  evidenceUrl: 'https://github.com/minhhnob/genlayer-contribution-judge',
   summary:
     'I built a GenLayer Intelligent Contract demo that reviews contributor campaign submissions using AI reasoning. The app includes a deployed contract workflow, Vercel frontend, GitHub repo, blog template, and clear demo inputs for Gen Portal submission.',
   rubric: defaultRubric,
