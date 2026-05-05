@@ -76,7 +76,7 @@ After deploy and Vercel publish, submit:
 
 - Contract address: `0x410E01fb3ECba47b0098eC57F5482536223c2876`
 - Demo: `<Vercel URL>`
-- GitHub: `<GitHub URL>`
+- GitHub: `https://github.com/minhhnob/genlayer-contribution-judge`
 - Blog: `docs/BLOG.md` published on Mirror/Medium/Substack/X article
 
 ## Notes
